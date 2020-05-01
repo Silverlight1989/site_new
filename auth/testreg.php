@@ -1,3 +1,10 @@
+<html>
+<form>
+<input type="text">
+	<br>
+<input type="password">	
+	</form>
+</html>
 <?php
 	session_start();
 	if(isset($_POST['logout'])){
